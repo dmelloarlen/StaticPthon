@@ -1,0 +1,4 @@
+0.Create a repo
+1.git add .
+2.save the file in repo //git commit -m "message"
+3.push the repo to GitHub //git push
