@@ -34,5 +34,5 @@ def calculator():
         else:
             print("wrong choice")
             continue
-
+        
 calculator()
