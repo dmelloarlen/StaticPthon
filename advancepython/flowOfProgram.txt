@@ -1,0 +1,16 @@
+#####life cycle 
+1.import  # jo bhi libraries vo import karne ka
+
+2.dataset #dataread karne ka 
+
+3.eda(exploratory data analysis) #data analysis karta hai
+
+4.Split(train, test, validation) # data ko split karta hai easy understand ke liye
+
+5.80:10:10 #default method hai split ke liye
+
+6.training # split ke baad train karne ke liye
+
+7.model test # testing
+
+8.operationlize #deploy

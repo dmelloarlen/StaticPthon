@@ -21,17 +21,20 @@
 # print(x["A_num1"])
 # 
 
-a=2
-b=3
-c=4
+# a=2
+# b=3
+# c=4
 
-print(a>b)
-print(a>=b)
-print(a<b)
-print(a<=b)
-print(a==b)
-print(a!=b)
+# print(a>b)
+# print(a>=b)
+# print(a<b)
+# print(a<=b)
+# print(a==b)
+# print(a!=b)
 
-print(a>>b)
-print(a<<b)
+# print(a>>b)
+# print(a<<b)
 
+import datetime as dt
+
+print(dt.date())
